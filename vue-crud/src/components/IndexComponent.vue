@@ -5,7 +5,7 @@
               <div class="card-header">Index Component</div>
 
               <div class="card-body">
-                  I'm an Index component.
+                 My products table.
               </div>
           </div>
       </div>
