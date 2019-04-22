@@ -29,8 +29,8 @@ const routes = [
       component: CreateComponent
   },
   {
-      name: 'posts',
-      path: '/posts',
+      name: 'products',
+      path: '/products',
       component: IndexComponent
   },
   {
