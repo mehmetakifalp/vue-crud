@@ -2,7 +2,7 @@
   <div class="container">
 
 
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <nav class="navbar navbar-expand-sm">
       <div class="navbar-header">
       <a class="navbar-brand" href="#">Vue Crud MEVN</a>
     </div>
@@ -17,7 +17,7 @@
           <router-link to="/products" class="nav-link">Products</router-link>
         </li>
       </ul>
-          <button class="btn btn-danger navbar-btn">mehmetakifalp@gmail.com</button>
+          <button class="btn btn-default navbar-btn">mehmetakifalp@gmail.com</button>
     </nav><br />
     <transition name="fade">
       <router-view></router-view>
